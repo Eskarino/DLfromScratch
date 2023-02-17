@@ -1,0 +1,9 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "python.autoComplete.extraPaths": [
+        "./.venv/Include/DLtests"
+    ],
+    "python.analysis.extraPaths": [
+        "./.venv/Include/DLtests"
+    ]
+}
